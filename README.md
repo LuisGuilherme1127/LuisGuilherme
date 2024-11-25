@@ -4,8 +4,8 @@
 
 - 🔭 Procurando oportunidades na área de programação
 - 🌱 Estudando Programação
-- 😄 20 Years
-- ⚡ Cursando Desenvolvimento Full Stack na Universidade Estácio de Sá
+- 😄 19 Years
+- ⚡ Cursando Sistema de Informação - Cesmac - 5° Período
 
 ##
 
